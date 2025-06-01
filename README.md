@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-Software Engineer with expertise in designing, developing, and maintaining scalable applications. I focus on creating robust applications with high performance while thinking pragmatically about business-oriented solutions.
+Software Engineer with expertise in designing, developing, and maintaining scalable applications.
 
 ### 🔧 Technologies & Tools
 
@@ -13,13 +13,13 @@ Software Engineer with expertise in designing, developing, and maintaining scala
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### 💼 What I Do
 
-- Microservices Architecture
 - API Design & Implementation
 - CI/CD Pipeline Management
-- Payment Systems Integration
 - Serverless Applications
 
 ### 🌱 Currently Learning
