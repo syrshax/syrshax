@@ -14,13 +14,6 @@ Hey! I'm an Electrical/Software Engineer who loves building and scaling applicat
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### 💼 What I Do
-
-- API Design & Implementation
-- CI/CD Pipeline Management
-- Serverless Applications
-
-### 🌱 Currently Learning
 
 Always exploring new technologies and expanding my skill set to build better software solutions.
 
